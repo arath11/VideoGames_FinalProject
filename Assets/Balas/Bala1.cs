@@ -5,38 +5,49 @@ using UnityEngine;
 public class Bala1 : MonoBehaviour
 {
     private Rigidbody rb;
-    public float velocidadDisparo=10;
+    public float velocidadDisparo = 10;
+    public float destruir = 2;
 
     // Start is called before the first frame update
     void Start()
     {
-        //referencia 
+        //referencia
         rb = GetComponent<Rigidbody>();
-
-        rb.AddForce(transform.up * velocidadDisparo, ForceMode.Impulse);
-        Destroy(gameObject, 1);
+        rb.AddForce(transform.right * velocidadDisparo, ForceMode.Impulse);
+        Destroy(gameObject, destruir);
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    void OnCollisionEnter(Collision c)
+    void Collision2D(Collision c)
     {
         //Destruir bala
         Destroy(gameObject);
 
-        //Destruir PruebaLadrillo
-        if (c.transform.name == "EnemigoSeguidor" || c.transform.name == "Enemigo3Dir" || c.transform.name == "Enemigo2Dir")
-        {
+        //Destruir ENEMIGO
+        if (c.gameObject.tag=="Enemigo"){
             Destroy(c.gameObject);
         }
-        
+
+       // print(c.transform.name);
 
     }
+    void OnCollisionStay2D(Collision2D colision)
+    {
+
+        Destroy(gameObject);
+
+        if (colision.gameObject.tag == "Enemigo")
+        {
+          Destroy(colision.gameObject);
+        }
+    }
+
 
     void OnBecameInvisible()
     {
@@ -45,5 +56,3 @@ public class Bala1 : MonoBehaviour
 
 
 }
-
-

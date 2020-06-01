@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class BalaEnemigo : MonoBehaviour
 {
-    private Rigidbody rb;
-    public float velocidadDisparo = 10;
+    private Rigidbody2D rb;
+    public float velocidadDisparo = 3000;
 
     // Start is called before the first frame update
     void Start()
     {
-        //referencia 
-        rb = GetComponent<Rigidbody>();
 
-        rb.AddForce(transform.up * velocidadDisparo, ForceMode.Impulse);
-        Destroy(gameObject, 1);
+        rb = GetComponent<Rigidbody2D>();
+        rb.AddForce(Vector2.right * velocidadDisparo, ForceMode2D.Impulse);
+        Destroy(gameObject, 5);
+
+
 
     }
 
@@ -24,22 +25,11 @@ public class BalaEnemigo : MonoBehaviour
 
     }
 
-    void OnCollisionEnter(Collision c)
-    {
-        //Destruir bala
-        Destroy(gameObject);
 
+    void OnCollisionEnter2D(Collision2D c)
+    {
+        Destroy(gameObject);
         
-        /*
-        if (c.transform.name == "BasePersonaje")
-        {
-            Destroy(c.gameObject);
-        }*/
-    }
-
-    void OnBecameInvisible()
-    {
-        Destroy(gameObject);
     }
 
 }
