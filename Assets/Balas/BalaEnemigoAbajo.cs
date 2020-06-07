@@ -6,7 +6,7 @@ public class BalaEnemigoAbajo : MonoBehaviour
 {
     // Start is called before the first frame update
     private Rigidbody2D rb;
-    public float velocidadDisparo = 3000;
+    public float velocidadDisparo = 5;
 
     // Start is called before the first frame update
     void Start()

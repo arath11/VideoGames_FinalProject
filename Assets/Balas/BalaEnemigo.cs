@@ -29,6 +29,7 @@ public class BalaEnemigo : MonoBehaviour
     void OnCollisionEnter2D(Collision2D c)
     {
         Destroy(gameObject);
+        print(c.gameObject.tag);
         
     }
 

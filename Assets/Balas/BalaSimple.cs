@@ -23,6 +23,7 @@ public class BalaSimple : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D c)
     {
+       // print(c.gameObject.tag);
         Destroy(gameObject);
         if (c.gameObject.tag == "Enemigo")
         {
