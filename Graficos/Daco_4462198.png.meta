@@ -1,0 +1,6224 @@
+fileFormatVersion: 2
+guid: 2098ccdc69bf78d47b47a5b484780558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9165712512281189270
+    second: Daco_4462198_0
+  - first:
+      213: 2269759865452286201
+    second: Daco_4462198_1
+  - first:
+      213: -7977861694001908863
+    second: Daco_4462198_2
+  - first:
+      213: -6514646710861255183
+    second: Daco_4462198_3
+  - first:
+      213: 2624296088353351702
+    second: Daco_4462198_4
+  - first:
+      213: -4432290697692673505
+    second: Daco_4462198_5
+  - first:
+      213: -3664349283589180238
+    second: Daco_4462198_6
+  - first:
+      213: -3537703490297107103
+    second: Daco_4462198_7
+  - first:
+      213: -1252688975701136163
+    second: Daco_4462198_8
+  - first:
+      213: 2076573486826702714
+    second: Daco_4462198_9
+  - first:
+      213: -935815301505797407
+    second: Daco_4462198_10
+  - first:
+      213: 3096727852195670695
+    second: Daco_4462198_11
+  - first:
+      213: -7640246562194566679
+    second: Daco_4462198_12
+  - first:
+      213: -7948693617739521250
+    second: Daco_4462198_13
+  - first:
+      213: 5179895967442606154
+    second: Daco_4462198_14
+  - first:
+      213: -7511732827594462967
+    second: Daco_4462198_15
+  - first:
+      213: 2001925802210218638
+    second: Daco_4462198_16
+  - first:
+      213: -1173372920612715752
+    second: Daco_4462198_17
+  - first:
+      213: 9104348662361262529
+    second: Daco_4462198_18
+  - first:
+      213: -6545645853853608643
+    second: Daco_4462198_19
+  - first:
+      213: -1921286753466278282
+    second: Daco_4462198_20
+  - first:
+      213: -5451782160138653111
+    second: Daco_4462198_21
+  - first:
+      213: 7157678629922717418
+    second: Daco_4462198_22
+  - first:
+      213: -4361015605594630037
+    second: Daco_4462198_23
+  - first:
+      213: 763776808590569966
+    second: Daco_4462198_24
+  - first:
+      213: 3950655539138561289
+    second: Daco_4462198_25
+  - first:
+      213: -1944754422851954897
+    second: Daco_4462198_26
+  - first:
+      213: 4746588796941671024
+    second: Daco_4462198_27
+  - first:
+      213: 6706156283826489343
+    second: Daco_4462198_28
+  - first:
+      213: -1492589585507794434
+    second: Daco_4462198_29
+  - first:
+      213: 7400408347473222188
+    second: Daco_4462198_30
+  - first:
+      213: 7309945929445789358
+    second: Daco_4462198_31
+  - first:
+      213: -1206078937261529170
+    second: Daco_4462198_32
+  - first:
+      213: 7507043315977349989
+    second: Daco_4462198_33
+  - first:
+      213: 4219524970368799217
+    second: Daco_4462198_34
+  - first:
+      213: -1353226689497988918
+    second: Daco_4462198_35
+  - first:
+      213: 6173074630439363517
+    second: Daco_4462198_36
+  - first:
+      213: -8585100984954595639
+    second: Daco_4462198_37
+  - first:
+      213: -4426642875975863601
+    second: Daco_4462198_38
+  - first:
+      213: -4818087948329638034
+    second: Daco_4462198_39
+  - first:
+      213: 7561091895111773943
+    second: Daco_4462198_40
+  - first:
+      213: -8724702566925079994
+    second: Daco_4462198_41
+  - first:
+      213: 8165277093026406080
+    second: Daco_4462198_42
+  - first:
+      213: 6559571909250377214
+    second: Daco_4462198_43
+  - first:
+      213: 6722736259242797679
+    second: Daco_4462198_44
+  - first:
+      213: 9209072132435237370
+    second: Daco_4462198_45
+  - first:
+      213: -2117548398615676181
+    second: Daco_4462198_46
+  - first:
+      213: -3805598319081901650
+    second: Daco_4462198_47
+  - first:
+      213: -1449848898386757767
+    second: Daco_4462198_48
+  - first:
+      213: -6557188042291784808
+    second: Daco_4462198_49
+  - first:
+      213: -2605077467696670815
+    second: Daco_4462198_50
+  - first:
+      213: 2077985894402648780
+    second: Daco_4462198_51
+  - first:
+      213: 6268025065038288339
+    second: Daco_4462198_52
+  - first:
+      213: 8576438377592182168
+    second: Daco_4462198_53
+  - first:
+      213: -4518675514551056969
+    second: Daco_4462198_54
+  - first:
+      213: -6951721351542214633
+    second: Daco_4462198_55
+  - first:
+      213: -863573720446582006
+    second: Daco_4462198_56
+  - first:
+      213: 3220361072738942553
+    second: Daco_4462198_57
+  - first:
+      213: -6695337942704439967
+    second: Daco_4462198_58
+  - first:
+      213: -8262513534716486266
+    second: Daco_4462198_59
+  - first:
+      213: 43738916211635008
+    second: Daco_4462198_60
+  - first:
+      213: -6065076203881964562
+    second: Daco_4462198_61
+  - first:
+      213: -6283090324379189448
+    second: Daco_4462198_62
+  - first:
+      213: -2082154895339833651
+    second: Daco_4462198_63
+  - first:
+      213: -3693218484865871373
+    second: Daco_4462198_64
+  - first:
+      213: 7832274139333498561
+    second: Daco_4462198_65
+  - first:
+      213: 139346580154527855
+    second: Daco_4462198_66
+  - first:
+      213: 1316115969400674782
+    second: Daco_4462198_67
+  - first:
+      213: 4168205898749911850
+    second: Daco_4462198_68
+  - first:
+      213: 8458421360676050092
+    second: Daco_4462198_69
+  - first:
+      213: -3053664932476202271
+    second: Daco_4462198_70
+  - first:
+      213: 6596990069051311334
+    second: Daco_4462198_71
+  - first:
+      213: -1691144032024062992
+    second: Daco_4462198_72
+  - first:
+      213: -9134018170008506879
+    second: Daco_4462198_73
+  - first:
+      213: 4478729017760904027
+    second: Daco_4462198_74
+  - first:
+      213: 3745143214447460452
+    second: Daco_4462198_75
+  - first:
+      213: -2082843981684056003
+    second: Daco_4462198_76
+  - first:
+      213: 5007146062741387470
+    second: Daco_4462198_77
+  - first:
+      213: -4636433946529974771
+    second: Daco_4462198_78
+  - first:
+      213: -4601604949183970582
+    second: Daco_4462198_79
+  - first:
+      213: -38625066843857360
+    second: Daco_4462198_80
+  - first:
+      213: 4777775387999583490
+    second: Daco_4462198_81
+  - first:
+      213: -5560359239848572214
+    second: Daco_4462198_82
+  - first:
+      213: 8856505058804650379
+    second: Daco_4462198_83
+  - first:
+      213: 3579225650710461343
+    second: Daco_4462198_84
+  - first:
+      213: 7633176353832931490
+    second: Daco_4462198_85
+  - first:
+      213: -5648400576188554481
+    second: Daco_4462198_86
+  - first:
+      213: 4177338217740562774
+    second: Daco_4462198_87
+  - first:
+      213: -740258800213579082
+    second: Daco_4462198_88
+  - first:
+      213: 5699377943974588196
+    second: Daco_4462198_89
+  - first:
+      213: -5078209112562098708
+    second: Daco_4462198_90
+  - first:
+      213: -9050758149776119936
+    second: Daco_4462198_91
+  - first:
+      213: -7472477807351721124
+    second: Daco_4462198_92
+  - first:
+      213: 1234242178978722348
+    second: Daco_4462198_93
+  - first:
+      213: -7588738025205822785
+    second: Daco_4462198_94
+  - first:
+      213: -2524664476397871746
+    second: Daco_4462198_95
+  - first:
+      213: -543866620484103220
+    second: Daco_4462198_96
+  - first:
+      213: -1244360066432544039
+    second: Daco_4462198_97
+  - first:
+      213: -6237577034940937110
+    second: Daco_4462198_98
+  - first:
+      213: 5913335475866224130
+    second: Daco_4462198_99
+  - first:
+      213: -2702597940749211136
+    second: Daco_4462198_100
+  - first:
+      213: -808114380531206716
+    second: Daco_4462198_101
+  - first:
+      213: -1063388184023028735
+    second: Daco_4462198_102
+  - first:
+      213: -1249385236866930377
+    second: Daco_4462198_103
+  - first:
+      213: 3702323572019741816
+    second: Daco_4462198_104
+  - first:
+      213: 7949876018683671786
+    second: Daco_4462198_105
+  - first:
+      213: -8002284689419481265
+    second: Daco_4462198_106
+  - first:
+      213: -7060737255676107185
+    second: Daco_4462198_107
+  - first:
+      213: 8102789061041043720
+    second: Daco_4462198_108
+  - first:
+      213: 2319613385949543979
+    second: Daco_4462198_109
+  - first:
+      213: -7252807831317773991
+    second: Daco_4462198_110
+  - first:
+      213: 1680275567302987844
+    second: Daco_4462198_111
+  - first:
+      213: 733574331086104244
+    second: Daco_4462198_112
+  - first:
+      213: 7494643008040048759
+    second: Daco_4462198_113
+  - first:
+      213: 822713467680327947
+    second: Daco_4462198_114
+  - first:
+      213: 2705049274234002751
+    second: Daco_4462198_115
+  - first:
+      213: -172726461017098492
+    second: Daco_4462198_116
+  - first:
+      213: -5829721634427543168
+    second: Daco_4462198_117
+  - first:
+      213: 2463146725958888213
+    second: Daco_4462198_118
+  - first:
+      213: 6739652838590517941
+    second: Daco_4462198_119
+  - first:
+      213: -7894142303373490730
+    second: Daco_4462198_120
+  - first:
+      213: 3420402873188543070
+    second: Daco_4462198_121
+  - first:
+      213: 8768830593535558910
+    second: Daco_4462198_122
+  - first:
+      213: 5599367325997907418
+    second: Daco_4462198_123
+  - first:
+      213: -6253002216764048785
+    second: Daco_4462198_124
+  - first:
+      213: 3325129319137296240
+    second: Daco_4462198_125
+  - first:
+      213: 6367222782099609505
+    second: Daco_4462198_126
+  - first:
+      213: -5286599799686936550
+    second: Daco_4462198_127
+  - first:
+      213: -7832191887295813201
+    second: Daco_4462198_128
+  - first:
+      213: 8113898631494370423
+    second: Daco_4462198_129
+  - first:
+      213: 3304955378423109537
+    second: Daco_4462198_130
+  - first:
+      213: -1853653760652820723
+    second: Daco_4462198_131
+  - first:
+      213: 9104695397934492397
+    second: Daco_4462198_132
+  - first:
+      213: -6041575783602990890
+    second: Daco_4462198_133
+  - first:
+      213: 6728892104105782097
+    second: Daco_4462198_134
+  - first:
+      213: 7407259800273097792
+    second: Daco_4462198_135
+  - first:
+      213: 251239306623471581
+    second: Daco_4462198_136
+  - first:
+      213: -5068759701089189277
+    second: Daco_4462198_137
+  - first:
+      213: -2843126001708326627
+    second: Daco_4462198_138
+  - first:
+      213: 2178066816495575531
+    second: Daco_4462198_139
+  - first:
+      213: 2512263892326451855
+    second: Daco_4462198_140
+  - first:
+      213: -7013931038477145499
+    second: Daco_4462198_141
+  - first:
+      213: 5345781840438395558
+    second: Daco_4462198_142
+  - first:
+      213: -9157252637663240104
+    second: Daco_4462198_143
+  - first:
+      213: 2552856037125781087
+    second: Daco_4462198_144
+  - first:
+      213: 3175372742120327525
+    second: Daco_4462198_145
+  - first:
+      213: -7768761870939021527
+    second: Daco_4462198_146
+  - first:
+      213: 549319146268234609
+    second: Daco_4462198_147
+  - first:
+      213: -6799235167163516675
+    second: Daco_4462198_148
+  - first:
+      213: -9068843800624745825
+    second: Daco_4462198_149
+  - first:
+      213: 3487700237225355872
+    second: Daco_4462198_150
+  - first:
+      213: -5954990557897348615
+    second: Daco_4462198_151
+  - first:
+      213: -7594216664056939918
+    second: Daco_4462198_152
+  - first:
+      213: -2707212759412921540
+    second: Daco_4462198_153
+  - first:
+      213: 3152728147999645664
+    second: Daco_4462198_154
+  - first:
+      213: 5963429629684693001
+    second: Daco_4462198_155
+  - first:
+      213: 540485510629817993
+    second: Daco_4462198_156
+  - first:
+      213: 8812167976356288486
+    second: Daco_4462198_157
+  - first:
+      213: 7883003389180874
+    second: Daco_4462198_158
+  - first:
+      213: 4971392130751048223
+    second: Daco_4462198_159
+  - first:
+      213: -3539222976146586351
+    second: Daco_4462198_160
+  - first:
+      213: -3139855199241895340
+    second: Daco_4462198_161
+  - first:
+      213: -1620709134570852738
+    second: Daco_4462198_162
+  - first:
+      213: 3635559072420659825
+    second: Daco_4462198_163
+  - first:
+      213: 6932047780685296956
+    second: Daco_4462198_164
+  - first:
+      213: 2666215001033194701
+    second: Daco_4462198_165
+  - first:
+      213: -641130014549982377
+    second: Daco_4462198_166
+  - first:
+      213: -5461418390434891663
+    second: Daco_4462198_167
+  - first:
+      213: 2583682372321903186
+    second: Daco_4462198_168
+  - first:
+      213: -2214897209470704839
+    second: Daco_4462198_169
+  - first:
+      213: 6258979573357070377
+    second: Daco_4462198_170
+  - first:
+      213: 7922434592146988449
+    second: Daco_4462198_171
+  - first:
+      213: 6755958260929161618
+    second: Daco_4462198_172
+  - first:
+      213: 2231923363295697726
+    second: Daco_4462198_173
+  - first:
+      213: 8340877014380623377
+    second: Daco_4462198_174
+  - first:
+      213: -1695967097921269818
+    second: Daco_4462198_175
+  - first:
+      213: -8223362470752667340
+    second: Daco_4462198_176
+  - first:
+      213: 4464462703590522986
+    second: Daco_4462198_177
+  - first:
+      213: 2040710288811472637
+    second: Daco_4462198_178
+  - first:
+      213: 470585537677625716
+    second: Daco_4462198_179
+  - first:
+      213: -4031173946726100454
+    second: Daco_4462198_180
+  - first:
+      213: -5051735047219092414
+    second: Daco_4462198_181
+  - first:
+      213: 8780659868300153740
+    second: Daco_4462198_182
+  - first:
+      213: 3918873798386337665
+    second: Daco_4462198_183
+  - first:
+      213: -3471857752292438124
+    second: Daco_4462198_184
+  - first:
+      213: -7966672094926320848
+    second: Daco_4462198_185
+  - first:
+      213: -6189652755734437693
+    second: Daco_4462198_186
+  - first:
+      213: -7540768825855540543
+    second: Daco_4462198_187
+  - first:
+      213: 548759489195975006
+    second: Daco_4462198_188
+  - first:
+      213: 5703277003497166009
+    second: Daco_4462198_189
+  - first:
+      213: 5747224439436359760
+    second: Daco_4462198_190
+  - first:
+      213: 5273465706743203094
+    second: Daco_4462198_191
+  - first:
+      213: 32690385443313996
+    second: Daco_4462198_192
+  - first:
+      213: 8963170542726977416
+    second: Daco_4462198_193
+  - first:
+      213: 6844251747138560943
+    second: Daco_4462198_194
+  - first:
+      213: -8191403586249785213
+    second: Daco_4462198_195
+  - first:
+      213: -3166797125892164224
+    second: Daco_4462198_196
+  - first:
+      213: 269023242512118279
+    second: Daco_4462198_197
+  - first:
+      213: 8187450675862414346
+    second: Daco_4462198_198
+  - first:
+      213: 6603775514123925972
+    second: Daco_4462198_199
+  - first:
+      213: -3670507469363197164
+    second: Daco_4462198_200
+  - first:
+      213: -3174015344120428387
+    second: Daco_4462198_201
+  - first:
+      213: -1180453504648754378
+    second: Daco_4462198_202
+  - first:
+      213: -3430941852543157686
+    second: Daco_4462198_203
+  - first:
+      213: -3773139953588179535
+    second: Daco_4462198_204
+  - first:
+      213: 1615147514724991265
+    second: Daco_4462198_205
+  - first:
+      213: -2308417695394552028
+    second: Daco_4462198_206
+  - first:
+      213: -3334088304157073742
+    second: Daco_4462198_207
+  - first:
+      213: 6933438523360477235
+    second: Daco_4462198_208
+  - first:
+      213: 7091735963767213698
+    second: Daco_4462198_209
+  - first:
+      213: 3058839436287938837
+    second: Daco_4462198_210
+  - first:
+      213: 6503618260423444981
+    second: Daco_4462198_211
+  - first:
+      213: -5903882265024703691
+    second: Daco_4462198_212
+  - first:
+      213: 4620203356571064231
+    second: Daco_4462198_213
+  - first:
+      213: 7626537803965594283
+    second: Daco_4462198_214
+  - first:
+      213: 8242863227980221261
+    second: Daco_4462198_215
+  - first:
+      213: 5275172494618032221
+    second: Daco_4462198_216
+  - first:
+      213: -3305443585047908245
+    second: Daco_4462198_217
+  - first:
+      213: 9056108500603432029
+    second: Daco_4462198_218
+  - first:
+      213: 2820120743592944202
+    second: Daco_4462198_219
+  - first:
+      213: 484801160047000841
+    second: Daco_4462198_220
+  - first:
+      213: 5378521259748410808
+    second: Daco_4462198_221
+  - first:
+      213: -4836926174706644735
+    second: Daco_4462198_222
+  - first:
+      213: 986826980562706835
+    second: Daco_4462198_223
+  - first:
+      213: -8950134152804719835
+    second: Daco_4462198_224
+  - first:
+      213: -4888772556168456646
+    second: Daco_4462198_225
+  - first:
+      213: -1622741386008197288
+    second: Daco_4462198_226
+  - first:
+      213: 4872467766393529382
+    second: Daco_4462198_227
+  - first:
+      213: 7624823304647663577
+    second: Daco_4462198_228
+  - first:
+      213: 5386923294683500397
+    second: Daco_4462198_229
+  - first:
+      213: -922969355363805886
+    second: Daco_4462198_230
+  - first:
+      213: -7356130870331997348
+    second: Daco_4462198_231
+  - first:
+      213: -2077827123327158740
+    second: Daco_4462198_232
+  - first:
+      213: 2664841483681462500
+    second: Daco_4462198_233
+  - first:
+      213: 8943137985365891443
+    second: Daco_4462198_234
+  - first:
+      213: -4543296044882225320
+    second: Daco_4462198_235
+  - first:
+      213: 1883278870508171111
+    second: Daco_4462198_236
+  - first:
+      213: -1771171512232581800
+    second: Daco_4462198_237
+  - first:
+      213: 4183822194131598084
+    second: Daco_4462198_238
+  - first:
+      213: -1787761502921353877
+    second: Daco_4462198_239
+  - first:
+      213: 5294429979339622411
+    second: Daco_4462198_240
+  - first:
+      213: -5034210606230004577
+    second: Daco_4462198_241
+  - first:
+      213: -5983028670257595893
+    second: Daco_4462198_242
+  - first:
+      213: 1597429241908449067
+    second: Daco_4462198_243
+  - first:
+      213: -9106316008164659089
+    second: Daco_4462198_244
+  - first:
+      213: 1869987572794169990
+    second: Daco_4462198_245
+  - first:
+      213: 6651147096874544104
+    second: Daco_4462198_246
+  - first:
+      213: 7351003838942878942
+    second: Daco_4462198_247
+  - first:
+      213: 7341033755497035361
+    second: Daco_4462198_248
+  - first:
+      213: -7903785872643432881
+    second: Daco_4462198_249
+  - first:
+      213: 8931309391113120753
+    second: Daco_4462198_250
+  - first:
+      213: 6352289857703850664
+    second: Daco_4462198_251
+  - first:
+      213: -5433937813461015142
+    second: Daco_4462198_252
+  - first:
+      213: -8477081084005489802
+    second: Daco_4462198_253
+  - first:
+      213: 7576564452046352950
+    second: Daco_4462198_254
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 525, z: 0, w: 110}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daco_4462198_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 104
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6460283809dcc080800000000000000
+      internalID: -9165712512281189270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d8b9629ecf7f10800000000000000
+      internalID: 2269759865452286201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f1ddce01f84190800000000000000
+      internalID: -7977861694001908863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 642
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda2f125535795a0800000000000000
+      internalID: -6514646710861255183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 642
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618afb3636f5b6420800000000000000
+      internalID: 2624296088353351702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 642
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a82cef7175d72c0800000000000000
+      internalID: -4432290697692673505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 642
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b5babdbd952dc0800000000000000
+      internalID: -3664349283589180238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 642
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6e2c4b6d87eec0800000000000000
+      internalID: -3537703490297107103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 642
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc294d730e8d9ee0800000000000000
+      internalID: -1252688975701136163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 642
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77cc48859871dc10800000000000000
+      internalID: 2076573486826702714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 642
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23f5201f05303f0800000000000000
+      internalID: -935815301505797407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa6e2c0399c9fa20800000000000000
+      internalID: 3096727852195670695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 642
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15eff3b3468f590800000000000000
+      internalID: -7640246562194566679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 642
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a836c44190b190800000000000000
+      internalID: -7948693617739521250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 642
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4815e820ffa2e740800000000000000
+      internalID: 5179895967442606154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909679bcac6f0c790800000000000000
+      internalID: -7511732827594462967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82dd6319e448cb10800000000000000
+      internalID: 2001925802210218638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 640
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81301d5ab8757bfe0800000000000000
+      internalID: -1173372920612715752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 640
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9885b1fd4295e70800000000000000
+      internalID: 9104348662361262529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 640
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351c87b6c13925a0800000000000000
+      internalID: -6545645853853608643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9afb80e73655e0800000000000000
+      internalID: -1921286753466278282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942bf1892016754b0800000000000000
+      internalID: -5451782160138653111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb2f87ace255360800000000000000
+      internalID: 7157678629922717418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d890996f8a73c0800000000000000
+      internalID: -4361015605594630037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f8b3f5fa799a00800000000000000
+      internalID: 763776808590569966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058848084c83d630800000000000000
+      internalID: 3950655539138561289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271a8af728d205e0800000000000000
+      internalID: -1944754422851954897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9e80cc554fd140800000000000000
+      internalID: 4746588796941671024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74bb10c9d011d50800000000000000
+      internalID: 6706156283826489343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14c581ea1494be0800000000000000
+      internalID: -1492589585507794434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1af7de2883b660800000000000000
+      internalID: 7400408347473222188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecde3d715227560800000000000000
+      internalID: 7309945929445789358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7227db895234fe0800000000000000
+      internalID: -1206078937261529170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bec423f106e2860800000000000000
+      internalID: 7507043315977349989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 617
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f119b3ca93ce8a30800000000000000
+      internalID: 4219524970368799217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac005efde7f583de0800000000000000
+      internalID: -1353226689497988918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db360578baa2ba550800000000000000
+      internalID: 6173074630439363517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 552
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6dce6d3289bd880800000000000000
+      internalID: -8585100984954595639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 552
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f1f5f1c76192c0800000000000000
+      internalID: -4426642875975863601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 552
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a83fc986b22db0800000000000000
+      internalID: -4818087948329638034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 552
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fee83aa4056ee860800000000000000
+      internalID: 7561091895111773943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 552
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aed77ad31abe680800000000000000
+      internalID: -8724702566925079994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 552
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce197e2144e05170800000000000000
+      internalID: 8165277093026406080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 552
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ef79b5e7480b50800000000000000
+      internalID: 6559571909250377214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 552
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a2eca5205fb4d50800000000000000
+      internalID: 6722736259242797679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 552
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af950cc00523dcf70800000000000000
+      internalID: 9209072132435237370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_46
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 552
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab0d163f4fc92e0800000000000000
+      internalID: -2117548398615676181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 552
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1bc41ed7ccf2bc0800000000000000
+      internalID: -3805598319081901650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 552
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9777aa9cb1a11ebe0800000000000000
+      internalID: -1449848898386757767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 552
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89352cd87303005a0800000000000000
+      internalID: -6557188042291784808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 552
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d09d68d7e8dbd0800000000000000
+      internalID: -2605077467696670815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 571
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca642c492d76dc10800000000000000
+      internalID: 2077985894402648780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_52
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 552
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51ad4569f7cf650800000000000000
+      internalID: 6268025065038288339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_53
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 552
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d866b341a50770800000000000000
+      internalID: 8576438377592182168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cdeb7f807a41c0800000000000000
+      internalID: -4518675514551056969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f3d73346868f90800000000000000
+      internalID: -6951721351542214633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a034b63d648f304f0800000000000000
+      internalID: -863573720446582006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb91d555501bc20800000000000000
+      internalID: 3220361072738942553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d38e15d916513a0800000000000000
+      internalID: -6695337942704439967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddd5387b7a55d80800000000000000
+      internalID: -8262513534716486266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_60
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b7a300546b9000800000000000000
+      internalID: 43738916211635008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd0f3a35584dba0800000000000000
+      internalID: -6065076203881964562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3fa3a3aafdc8a0800000000000000
+      internalID: -6283090324379189448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6bde78723ba13e0800000000000000
+      internalID: -2082154895339833651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d9a30b5d0fbcc0800000000000000
+      internalID: -3693218484865871373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_65
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6937225d3d1bc60800000000000000
+      internalID: 7832274139333498561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_66
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b6c2f9fe0fe100800000000000000
+      internalID: 139346580154527855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_67
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed998574088c34210800000000000000
+      internalID: 1316115969400674782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_68
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232da94e2178d930800000000000000
+      internalID: 4168205898749911850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_69
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41ca3b969526570800000000000000
+      internalID: 8458421360676050092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_70
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e250b44ce33f95d0800000000000000
+      internalID: -3053664932476202271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_71
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 527
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44594f3873d8b50800000000000000
+      internalID: 6596990069051311334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31f238679d788e0800000000000000
+      internalID: -1691144032024062992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eeda45ed27d3180800000000000000
+      internalID: -9134018170008506879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 511
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537fd4ff44a72e30800000000000000
+      internalID: 4478729017760904027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600b1239eb69f330800000000000000
+      internalID: 3745143214447460452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30692d1f604813e0800000000000000
+      internalID: -2082843981684056003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 511
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec83238a0d4fc7540800000000000000
+      internalID: 5007146062741387470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 511
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b488f3e318afb0800000000000000
+      internalID: -4636433946529974771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 509
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c537dda0d320c0800000000000000
+      internalID: -4601604949183970582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9853d4b6c67ff0800000000000000
+      internalID: -38625066843857360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 509
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db152d6611e4240800000000000000
+      internalID: 4777775387999583490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac34d3bb2a5d2b0800000000000000
+      internalID: -5560359239848572214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 452
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81508d5d60a8ea70800000000000000
+      internalID: 8856505058804650379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 452
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b309904c6fba130800000000000000
+      internalID: 3579225650710461343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 452
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09f16937d7ee960800000000000000
+      internalID: 7633176353832931490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036b2b3a99dc91b0800000000000000
+      internalID: -5648400576188554481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f61ff9f2e8f930800000000000000
+      internalID: 4177338217740562774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa9631b821ab5f0800000000000000
+      internalID: -740258800213579082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 427
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2d4f1b02481f40800000000000000
+      internalID: 5699377943974588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9596b7b39689b0800000000000000
+      internalID: -5078209112562098708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876f9e6a6f356280800000000000000
+      internalID: -9050758149776119936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 371
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539fcc660d6c4890800000000000000
+      internalID: -7472477807351721124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 371
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b4d4f8b8e02110800000000000000
+      internalID: 1234242178978722348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8b1219f26fa690800000000000000
+      internalID: -7588738025205822785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd143f80796fcd0800000000000000
+      internalID: -2524664476397871746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35ad0b03cc378f0800000000000000
+      internalID: -543866620484103220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 371
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25b9bcc152bbee0800000000000000
+      internalID: -1244360066432544039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 371
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c063d1cbcaf69a0800000000000000
+      internalID: -6237577034940937110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_99
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 371
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c8bcf843601250800000000000000
+      internalID: 5913335475866224130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 371
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae0faed717e7ad0800000000000000
+      internalID: -2702597940749211136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 371
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c57d82a04009c4f0800000000000000
+      internalID: -808114380531206716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_102
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 371
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca5f8a4161e31f0800000000000000
+      internalID: -1063388184023028735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_103
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 371
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ede02fba49aee0800000000000000
+      internalID: -1249385236866930377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 371
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cac94cab416330800000000000000
+      internalID: 3702323572019741816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 371
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae479066e12a35e60800000000000000
+      internalID: 7949876018683671786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_106
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 371
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fca9f097c22f090800000000000000
+      internalID: -8002284689419481265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_107
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 371
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462f0710e8330e90800000000000000
+      internalID: -7060737255676107185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b54978b3e27070800000000000000
+      internalID: 8102789061041043720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e73cda51ce03020800000000000000
+      internalID: 2319613385949543979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951022654b9d85b90800000000000000
+      internalID: -7252807831317773991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_111
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440dcd9d9b9815710800000000000000
+      internalID: 1680275567302987844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66bbca7fd2e2a00800000000000000
+      internalID: 733574331086104244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77897948b12520860800000000000000
+      internalID: 7494643008040048759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0904093a8dda6b00800000000000000
+      internalID: 822713467680327947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d55a2abf34a8520800000000000000
+      internalID: 2705049274234002751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_116
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f3c7e23a5a9df0800000000000000
+      internalID: -172726461017098492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_117
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08169888f0ba81fa0800000000000000
+      internalID: -5829721634427543168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b227e95eade2220800000000000000
+      internalID: 2463146725958888213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_119
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b214a96c8e088d50800000000000000
+      internalID: 6739652838590517941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50a09666f527290800000000000000
+      internalID: -7894142303373490730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_121
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae0258a46b77f20800000000000000
+      internalID: 3420402873188543070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_122
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c34f27f421b970800000000000000
+      internalID: 8768830593535558910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_123
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addb8019ae2f4bd40800000000000000
+      internalID: 5599367325997907418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_124
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7c0a1d9fd839a0800000000000000
+      internalID: -6253002216764048785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_125
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 346
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f3a6b9f7b352e20800000000000000
+      internalID: 3325129319137296240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a752d4a26bec5850800000000000000
+      internalID: 6367222782099609505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a184206ed7932a6b0800000000000000
+      internalID: -5286599799686936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96909a9f67e4390800000000000000
+      internalID: -7832191887295813201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_129
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 327
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77400c9e0db5a9070800000000000000
+      internalID: 8113898631494370423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_130
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 327
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71d61086f8ddd20800000000000000
+      internalID: 3304955378423109537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_131
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb8bbc9bf7646e0800000000000000
+      internalID: -1853653760652820723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 327
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae406c9306a5e70800000000000000
+      internalID: 9104695397934492397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ddbe95d2082ca0800000000000000
+      internalID: -6041575783602990890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be72da7b3d16d50800000000000000
+      internalID: 6728892104105782097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_135
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441f420b8fdbc660800000000000000
+      internalID: 7407259800273097792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_136
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf48e871d49c7300800000000000000
+      internalID: 251239306623471581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36283c448e528a9b0800000000000000
+      internalID: -5068759701089189277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_138
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11af7807ff2b88d0800000000000000
+      internalID: -2843126001708326627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_139
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e84eca3c0a3e10800000000000000
+      internalID: 2178066816495575531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 277
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a882413ba5dd220800000000000000
+      internalID: 2512263892326451855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_141
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aab74c1e289ae90800000000000000
+      internalID: -7013931038477145499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2801eb248003a40800000000000000
+      internalID: 5345781840438395558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e2954e37eae080800000000000000
+      internalID: -9157252637663240104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_144
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f7974a019d6320800000000000000
+      internalID: 2552856037125781087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_145
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 277
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694a836fa0311c20800000000000000
+      internalID: 3175372742120327525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_146
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 277
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f94123d30df2490800000000000000
+      internalID: -7768761870939021527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_147
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 277
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17393a56ad29f9700800000000000000
+      internalID: 549319146268234609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_148
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 277
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8ffdca3a344a1a0800000000000000
+      internalID: -6799235167163516675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_149
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 284
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923244bc9ef42280800000000000000
+      internalID: -9068843800624745825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_150
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 291
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aecda13ecc66030800000000000000
+      internalID: 3487700237225355872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 291
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f929b373af9b5da0800000000000000
+      internalID: -5954990557897348615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab88f0e2ceb9690800000000000000
+      internalID: -7594216664056939918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_153
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba9c7b65c0e6ad0800000000000000
+      internalID: -2707212759412921540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_154
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd4e6fb8db0cb20800000000000000
+      internalID: 3152728147999645664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908356017ab52c250800000000000000
+      internalID: 5963429629684693001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef55355b0308700800000000000000
+      internalID: 540485510629817993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71acbe51c1b4a70800000000000000
+      internalID: 8812167976356288486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_158
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 230
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb76c0cc810c1000800000000000000
+      internalID: 7883003389180874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_159
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa698adceedf440800000000000000
+      internalID: 4971392130751048223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_160
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c1ed647722eec0800000000000000
+      internalID: -3539222976146586351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_161
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452060bf45efc64d0800000000000000
+      internalID: -3139855199241895340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_162
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6ca501a51289e0800000000000000
+      internalID: -1620709134570852738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_163
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172059fd6b9147230800000000000000
+      internalID: 3635559072420659825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_164
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 230
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3538cd9ab4933060800000000000000
+      internalID: 6932047780685296956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_165
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 230
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb66fca6c400520800000000000000
+      internalID: 2666215001033194701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_166
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 230
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75348eb06af3a17f0800000000000000
+      internalID: -641130014549982377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_167
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 241
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b754e8e42534b0800000000000000
+      internalID: -5461418390434891663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_168
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 241
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528faebd651bd320800000000000000
+      internalID: 2583682372321903186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_169
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 241
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ae7719ba1341e0800000000000000
+      internalID: -2214897209470704839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_170
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 241
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928cf5ea2cc5cd650800000000000000
+      internalID: 6258979573357070377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1035694422fd60800000000000000
+      internalID: 7922434592146988449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_172
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996c046e3cf1cd50800000000000000
+      internalID: 6755958260929161618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_173
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9223497269fe10800000000000000
+      internalID: 2231923363295697726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b065e37fb0c370800000000000000
+      internalID: 8340877014380623377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_175
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf07a9f8e6b678e0800000000000000
+      internalID: -1695967097921269818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 181
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439328fe66fb0ed80800000000000000
+      internalID: -8223362470752667340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_177
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604e78dc25f4fd30800000000000000
+      internalID: 4464462703590522986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_178
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 181
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b71e023f025c10800000000000000
+      internalID: 2040710288811472637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_179
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47906b1ad0bd78600800000000000000
+      internalID: 470585537677625716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_180
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d49d47a46e08c0800000000000000
+      internalID: -4031173946726100454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_181
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446d136db1a4e9b0800000000000000
+      internalID: -5051735047219092414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_182
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831f87d0ab2bd970800000000000000
+      internalID: 8780659868300153740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_183
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1874760e4f2a26630800000000000000
+      internalID: 3918873798386337665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_184
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 181
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4cebd4cb71dfc0800000000000000
+      internalID: -3471857752292438124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_185
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b46eb50f1b07190800000000000000
+      internalID: -7966672094926320848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_186
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 215
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06e63ec9fe91aa0800000000000000
+      internalID: -6189652755734437693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_187
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 215
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28a81a4bec95790800000000000000
+      internalID: -7540768825855540543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_188
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 215
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a6a419d59d9700800000000000000
+      internalID: 548759489195975006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_189
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45a19a73c162f40800000000000000
+      internalID: 5703277003497166009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_190
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 189
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583c057d2e32cf40800000000000000
+      internalID: 5747224439436359760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_191
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 189
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61502a9ce1d1f2940800000000000000
+      internalID: 5273465706743203094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_192
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 189
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495beb7bb3247000800000000000000
+      internalID: 32690385443313996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_193
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 189
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879c74ae14936c70800000000000000
+      internalID: 8963170542726977416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36a8d93baabfe50800000000000000
+      internalID: 6844251747138560943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_195
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38088b596d9425e80800000000000000
+      internalID: -8191403586249785213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085387bdac64d04d0800000000000000
+      internalID: -3166797125892164224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_197
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023246b633cbb300800000000000000
+      internalID: 269023242512118279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 101
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04afceb20baf9170800000000000000
+      internalID: 8187450675862414346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_199
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 129
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d977cf77d255ab50800000000000000
+      internalID: 6603775514123925972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_200
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b403f57ecbf0dc0800000000000000
+      internalID: -3670507469363197164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_201
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9800167cd1a3f3d0800000000000000
+      internalID: -3174015344120428387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bcb85bacf2e9fe0800000000000000
+      internalID: -1180453504648754378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_203
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af4222098d260d0800000000000000
+      internalID: -3430941852543157686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_204
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 130
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdea82043d13abc0800000000000000
+      internalID: -3773139953588179535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_205
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c9037b182a6610800000000000000
+      internalID: 1615147514724991265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_206
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42728c8265ad6ffd0800000000000000
+      internalID: -2308417695394552028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_207
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bedee42a50fab1d0800000000000000
+      internalID: -3334088304157073742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_208
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33009e02a95883060800000000000000
+      internalID: 6933438523360477235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_209
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e05311948ea6260800000000000000
+      internalID: 7091735963767213698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_210
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51116e8c24e237a20800000000000000
+      internalID: 3058839436287938837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_211
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f98847a95e714a50800000000000000
+      internalID: 6503618260423444981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_212
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533597d2c52311ea0800000000000000
+      internalID: -5903882265024703691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_213
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 97
+        width: 264
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75c7259724e1040800000000000000
+      internalID: 4620203356571064231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_214
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf47fb9b7e6d960800000000000000
+      internalID: 7626537803965594283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_215
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b04ebee68846270800000000000000
+      internalID: 8242863227980221261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_216
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587e9e4f6d253940800000000000000
+      internalID: 5275172494618032221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_217
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6030288294b022d0800000000000000
+      internalID: -3305443585047908245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_218
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cecd133b2cdad70800000000000000
+      internalID: 9056108500603432029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_219
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426199efd4132720800000000000000
+      internalID: 2820120743592944202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_220
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7c43261c5ab600800000000000000
+      internalID: 484801160047000841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_221
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c030d69854aa40800000000000000
+      internalID: 5378521259748410808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_222
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10942df6549cfdcb0800000000000000
+      internalID: -4836926174706644735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_223
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391263f09e9e1bd00800000000000000
+      internalID: 986826980562706835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_224
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523abf9686cbac380800000000000000
+      internalID: -8950134152804719835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_225
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3696e11347972cb0800000000000000
+      internalID: -4888772556168456646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_226
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85708ac9e4dda79e0800000000000000
+      internalID: -1622741386008197288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_227
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 95
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246d6b3e9b7e9340800000000000000
+      internalID: 4872467766393529382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_228
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd4a4c560d0d960800000000000000
+      internalID: 7624823304647663577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_229
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f03e3023232ca40800000000000000
+      internalID: 5386923294683500397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_230
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24518fae244f033f0800000000000000
+      internalID: -922969355363805886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_231
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538398a2f5c9e990800000000000000
+      internalID: -7356130870331997348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_232
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b9697d331a23e0800000000000000
+      internalID: -2077827123327158740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8fe81e53b6bf420800000000000000
+      internalID: 2664841483681462500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_234
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379590b6d986c1c70800000000000000
+      internalID: 8943137985365891443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_235
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579b5f8158f2f0c0800000000000000
+      internalID: -4543296044882225320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_236
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 59
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f63a99720c22a10800000000000000
+      internalID: 1883278870508171111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_237
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e519c4e88b67e0800000000000000
+      internalID: -1771171512232581800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_238
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfb946e1cef0a30800000000000000
+      internalID: 4183822194131598084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_239
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65114392689037e0800000000000000
+      internalID: -1787761502921353877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_240
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0887bed308997940800000000000000
+      internalID: 5294429979339622411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c18234024e22ab0800000000000000
+      internalID: -5034210606230004577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_242
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7154bf1308fca0800000000000000
+      internalID: -5983028670257595893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_243
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f46c59e653b2610800000000000000
+      internalID: 1597429241908449067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6074e086dddf9180800000000000000
+      internalID: -9106316008164659089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_245
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9ac23ac783f910800000000000000
+      internalID: 1869987572794169990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_246
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe31a9b0f9d4c50800000000000000
+      internalID: 6651147096874544104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_247
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc19b25b03040660800000000000000
+      internalID: 7351003838942878942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_248
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1667d806e4790e560800000000000000
+      internalID: 7341033755497035361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_249
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5658ff9c105290800000000000000
+      internalID: -7903785872643432881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_250
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb6864329262fb70800000000000000
+      internalID: 8931309391113120753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_251
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a231ce38fdd72850800000000000000
+      internalID: 6352289857703850664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_252
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e7115956c694b0800000000000000
+      internalID: -5433937813461015142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_253
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736ba7eaab5b5a80800000000000000
+      internalID: -8477081084005489802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daco_4462198_254
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632331e0a3d552960800000000000000
+      internalID: 7576564452046352950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
