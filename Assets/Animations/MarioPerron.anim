@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Enemy_Walk
+  m_Name: MarioPerron
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,11 +20,14 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300032, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
-    - time: 0.2
-      value: {fileID: 21300036, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
-    - time: 0.43333334
-      value: {fileID: 21300032, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
+      value: {fileID: 8249449089873024317, guid: 7058643a01e2b664fa0a7de16504aa45,
+        type: 3}
+    - time: 0.25
+      value: {fileID: 6735602016516012221, guid: 7058643a01e2b664fa0a7de16504aa45,
+        type: 3}
+    - time: 0.5
+      value: {fileID: 8249449089873024317, guid: 7058643a01e2b664fa0a7de16504aa45,
+        type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,15 +47,15 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300032, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
-    - {fileID: 21300036, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
-    - {fileID: 21300032, guid: d40026030b2e2714e81b21d1f998eb94, type: 3}
+    - {fileID: 8249449089873024317, guid: 7058643a01e2b664fa0a7de16504aa45, type: 3}
+    - {fileID: 6735602016516012221, guid: 7058643a01e2b664fa0a7de16504aa45, type: 3}
+    - {fileID: 8249449089873024317, guid: 7058643a01e2b664fa0a7de16504aa45, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.45000002
+    m_StopTime: 0.51666665
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
