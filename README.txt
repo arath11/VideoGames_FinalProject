@@ -1,6 +1,9 @@
+
 My first readme
 This my video game 
 
-It was made with unity
+It was made with unity. 
 
-There are 3 levels and one  final boss 
+The game it's a run'n'go. 
+
+There are 3 levels each one with diferent styles. There is a final boss battle with 3 states.
